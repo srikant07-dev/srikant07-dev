@@ -47,19 +47,19 @@ Most of my interesting work is at the layer where LLMs meet real systems — too
 
 | Project | What it does | Stack |
 |---|---|---|
-| [debator](https://github.com/Draco-0704/debator) | AI-powered debate engine | Python |
-| [recommender](https://github.com/Draco-0704/recommender) | Content recommendation system | Python, Jupyter |
-| [Gemini_vibecoding_new](https://github.com/Draco-0704/Gemini_vibecoding_new) | Fact-checking with Gemini | TypeScript |
-| [AWS-ai-Hackathon](https://github.com/Draco-0704/AWS-ai-Hackathon) | AWS AI hackathon project | Python |
-| [facebook_post_scrapper](https://github.com/Draco-0704/facebook_post_scrapper) | Social media data scraper | JavaScript |
+| [debator](https://github.com/srikant07-dev/debator) | AI-powered debate engine | Python |
+| [recommender](https://github.com/srikant07-dev/recommender) | Content recommendation system | Python, Jupyter |
+| [Gemini_vibecoding_new](https://github.com/srikant07-dev/Gemini_vibecoding_new) | Fact-checking with Gemini | TypeScript |
+| [AWS-ai-Hackathon](https://github.com/srikant07-dev/AWS-ai-Hackathon) | AWS AI hackathon project | Python |
+| [facebook_post_scrapper](https://github.com/srikant07-dev/facebook_post_scrapper) | Social media data scraper | JavaScript |
 
 ---
 
 ## Stats
 
-![Srikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Draco-0704&show_icons=true&theme=tokyonight&hide_border=true)
+![Srikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=srikant07-dev&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Draco-0704&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srikant07-dev&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
